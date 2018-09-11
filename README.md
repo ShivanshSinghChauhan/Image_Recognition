@@ -1,0 +1,2 @@
+# Image_Recognition
+Objection Recognition in an Image, through a Convolutional Neural Network(CNN) using python that is able to detect various objects in images with an accuracy of 84%. Implemented this Deep Learning model to recognize a cat or a dog in a set of pictures. However, this model can be used to predict any anything else other than animals. Just by reusing with a different set of pictures as an input that we want to predict. For example, for detection of Tumor.
